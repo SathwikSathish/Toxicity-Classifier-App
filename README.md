@@ -1,2 +1,2 @@
 # Toxicity-Classifier-App
-This is the official repo of "Toxicity Classifier App" from the AI Anytime YouTube video. This takes text as an input and classify that between toxic and non-toxic.
+This is the deployment of Toxicity-Classifier Streamlit Application text is taken as an input and is classified between toxic and non-toxic.
